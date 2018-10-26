@@ -76,3 +76,7 @@ debian/files
 *.debhelper.log
 
 homework01/mnist.npz
+
+homework02/notMNIST_small.tar.gz
+homework02/notMNIST_small
+homework02/cifar_data
