@@ -80,3 +80,8 @@ homework01/mnist.npz
 homework02/notMNIST_small.tar.gz
 homework02/notMNIST_small
 homework02/cifar_data
+
+homework03/lfw-deepfunneled
+homework03/lfw_attributes.txt
+homework03/BBBC018_v1_images-fixed
+homework03/BBBC018_v1_outlines
