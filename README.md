@@ -5,8 +5,8 @@ This repo supplements Deep Learning course taught at YSDA and Skoltech @spring'1
 Lecture and seminar materials for each week are in ./week* folders. Homeworks are in ./homework* folders.
 
 # General info
-* Create cloud jupyter session from this repo - [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/yandexdataschool/Practical_DL/master)
-* Telegram [chat room](https://t.me/joinchat/CDFcMUhjSRBcgTwqsenWUA) (russian).
+* Create cloud jupyter session from this repo - [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/yandexdataschool/AndreySheka/master)
+* Telegram [chat room](https://t.me/joinchat/C-q6Jg5IXq_yVMiXOy7omg) (russian).
 * YSDA deadlines & admin stuff can be found at the YSDA course wiki (ysda students only).
 * Any technical issues, ideas, bugs in course materials, contribution ideas - add an [issue](https://github.com/yandexdataschool/practical_dl/issues)
 
